@@ -45,21 +45,22 @@ function App() {
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
-                href="https://mobile.gsfcuniversity.in/app.apk"
+                href="https://gsfcuniversity.in/"
                 className="rounded-md flex items-center bg-primary pl-5 pr-7 py-3 text-sm font-semibold text-white shadow-sm hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary transition-all"
                 target='_blank'
               >
-                <img className='w-6' src='android.svg' /> &nbsp;
-                GSFCU App
+                
+                <img className='w-6' src='web.svg' /> &nbsp;
+                GSFCU
               </a>
 
               <a
-                href="https://mobile.guidelms.in/app.apk"
+                href="https://guidelms.in/"
                 className="rounded-md flex items-center bg-primary pl-5 pr-7 py-3 text-sm font-semibold text-white shadow-sm hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary transition-all"
                 target='_blank'
               >
-                <img className='w-6' src='android.svg' /> &nbsp;
-                GIDM App
+                <img className='w-6' src='web.svg' /> &nbsp;
+                GIDM
               </a> 
             </div>
           </div>
@@ -89,8 +90,8 @@ function App() {
                 className="rounded-md flex items-center bg-primary pl-6 pr-7 py-3 text-sm font-semibold text-white shadow-sm hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary transition-all"
                 target='_blank'
               >
-                <img className='w-6' src='web.svg' /> &nbsp;
-                GSFCU
+                <img className='w-6' src='android.svg' /> &nbsp;
+                GSFCU App
               </a>
 
               <a
@@ -98,8 +99,8 @@ function App() {
                 className="rounded-md flex items-center bg-primary pl-6 pr-7 py-3 text-sm font-semibold text-white shadow-sm hover:bg-secondary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary transition-all"
                 target='_blank'
               >
-                <img className='w-6' src='web.svg' /> &nbsp;
-                GIDM
+                <img className='w-6' src='android.svg' /> &nbsp;
+                GIDM App
               </a> 
             </div>
           </div>
