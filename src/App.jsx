@@ -37,7 +37,7 @@ function App() {
         {/* Why LMS */}
         <div className="mx-auto max-w-4xl py-32 sm:py-32 lg:py-32">
           <div className="text-center">
-            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+            <h1 className="text-4xl font-bold tracking-tight text-primary sm:text-6xl">
             Why LMS?
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-800">
@@ -70,11 +70,18 @@ function App() {
         {/* Main content */}
         <div className="mx-auto max-w-4xl py-32 sm:py-32 lg:py-32">
           <div className="text-center">
-            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+            <h1 className="text-4xl font-bold tracking-tight text-primary sm:text-6xl">
             GUIDE
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-800">
-            GSFCU's / GIDM's Unified Internet based eDucational Eco-System
+            <span className='text-primary font-bold'>G</span>
+            SFCU's / 
+            <span className='text-primary font-bold'>G</span>
+            IDM's &nbsp;
+            <span className='text-primary font-bold'>U</span>nified&nbsp;
+            <span className='text-primary font-bold'>I</span>nternet based e
+            <span className='text-primary font-bold'>D</span>ucational &nbsp;
+            <span className='text-primary font-bold'>E</span>co-System
             </p>
             <div className="mt-4 flex items-center justify-center gap-x-6">
             <a
