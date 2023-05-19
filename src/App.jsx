@@ -25,7 +25,7 @@ function App() {
             <img src='gsfcu.png' />
             <div className='flex justify-center items-center gap-4'>
               <h1 className="text-4xl font-bold tracking-tight text-gray-900  sm:text-4xl">
-              GUIDE
+              GUIDE LMS
               </h1>
               <p className="text-lg leading-8 text-gray-800">
               GSFCU's / GIDM's Unified Internet based eDucational Eco-System
@@ -123,7 +123,7 @@ function App() {
                 />
                 <TeamMember
                   name="Veera Patel"
-                  designation="4th Year - CSE"
+                  designation="4th Year - CE"
                   image="veera.jpeg"
                 />
               </dl>
