@@ -27,9 +27,9 @@ function App() {
               <h1 className="text-4xl font-bold tracking-tight text-gray-900  sm:text-4xl">
               GUIDE LMS
               </h1>
-              <p className="text-lg leading-8 text-gray-800">
+              {/* <p className="text-lg leading-8 text-gray-800">
               GSFCU's / GIDM's Unified Internet based eDucational Eco-System
-              </p>
+              </p> */}
             </div>
             <img src='gidm.png' />
         </div>
